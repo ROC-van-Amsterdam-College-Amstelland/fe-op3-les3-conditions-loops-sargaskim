@@ -1,1 +1,20 @@
-/* stylesheet */
+*{
+    margin: 5px;
+}
+main{
+    display: flex;
+    flex-direction: row;
+}
+#inputHolder{
+    display: flex;
+    flex-direction: column;
+}
+#buttonHolder{
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+}
+button{
+    width: 40px;
+    height: 40px;
+}
