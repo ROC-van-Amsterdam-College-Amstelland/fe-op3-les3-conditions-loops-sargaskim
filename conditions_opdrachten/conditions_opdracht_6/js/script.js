@@ -48,5 +48,4 @@ function rekenUitD(myOperator)
     }
    
     document.getElementById("uitkomst").innerHTML = myNumber1 + myOperator + myNumber2 + " = " + myUitkomst;
-}
- 
+} 
