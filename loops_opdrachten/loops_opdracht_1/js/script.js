@@ -5,5 +5,6 @@ var numbers ="";
     }
 
 document.getElementById("output1").innerHTML = numbers;
+console.log(numbers) 
 }
 
